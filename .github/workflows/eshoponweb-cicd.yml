@@ -9,7 +9,7 @@ env:
   LOCATION: brazilsouth
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 2e55cd2d-03be-4bad-99c4-f6e855e4c427
-  WEBAPP-NAME: az400-webapp-NAME
+  WEBAPP-NAME: az400-webapp-unique-1337
 
 
 jobs:
